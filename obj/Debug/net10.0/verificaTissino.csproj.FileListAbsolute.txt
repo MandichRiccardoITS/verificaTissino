@@ -1,0 +1,14 @@
+C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\verificaTissino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\verificaTissino.AssemblyInfoInputs.cache
+C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\verificaTissino.AssemblyInfo.cs
+C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\verificaTissino.csproj.CoreCompileInputs.cache
+C:\Users\RickyMandich\PROJECT\verificaTissino\bin\Debug\net10.0\verificaTissino.exe
+C:\Users\RickyMandich\PROJECT\verificaTissino\bin\Debug\net10.0\verificaTissino.deps.json
+C:\Users\RickyMandich\PROJECT\verificaTissino\bin\Debug\net10.0\verificaTissino.runtimeconfig.json
+C:\Users\RickyMandich\PROJECT\verificaTissino\bin\Debug\net10.0\verificaTissino.dll
+C:\Users\RickyMandich\PROJECT\verificaTissino\bin\Debug\net10.0\verificaTissino.pdb
+C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\verificaTissino.dll
+C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\refint\verificaTissino.dll
+C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\verificaTissino.pdb
+C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\verificaTissino.genruntimeconfig.cache
+C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\ref\verificaTissino.dll
