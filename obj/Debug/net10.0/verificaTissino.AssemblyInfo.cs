@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("verificaTissino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4471d15ecbe490e890c90f786bbc00daa24cce1")]
 [assembly: System.Reflection.AssemblyProductAttribute("verificaTissino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("verificaTissino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -31,8 +31,4 @@ class Program
         }
         return i;
     }
-    static void Main(string[] args)
-    {
-        Console.WriteLine(CountIncrements(0.01));
-    }
 }

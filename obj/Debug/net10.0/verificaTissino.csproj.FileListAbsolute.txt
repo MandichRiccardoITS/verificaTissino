@@ -12,3 +12,4 @@ C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\refint\verificaT
 C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\verificaTissino.pdb
 C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\verificaTissino.genruntimeconfig.cache
 C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\ref\verificaTissino.dll
+C:\Users\RickyMandich\PROJECT\verificaTissino\obj\Debug\net10.0\verificaTissino.sourcelink.json
